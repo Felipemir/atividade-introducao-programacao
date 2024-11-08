@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/robsonfelipe/atividades-faculdades/atividade-introducao-programacao/output/contagemPalavra'
+relocations:     []
+...
